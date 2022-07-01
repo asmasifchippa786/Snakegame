@@ -42,7 +42,7 @@
 }
 #scoreBox{
     position: absolute;
-    top: 9px;
+    top: 0;
     right: 200px;
     font-size: 39px;
     font-weight: bold;
@@ -50,9 +50,9 @@
 }
 #hiscoreBox{
     position: absolute;
-    top: 59px;
-    right: 200px;
-    font-size: 39px;
+    bottom: 2px;
+    left: 200px;
+    font-size: 36px;
     font-weight: bold;
     font-family: 'Lobster';
 }
